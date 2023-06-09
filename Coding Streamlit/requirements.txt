@@ -1,0 +1,10 @@
+streamlit
+statistics
+statsmodels.stats.weightstats
+numpy
+pandas
+scipy.stats
+scipy.stats
+scipy.stats
+matplot 
+seaborn 
